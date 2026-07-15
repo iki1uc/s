@@ -1,1 +1,10 @@
+AXIS: H°
+SYMBOL: ↑
+RESPO: 0O
+REAL: +Y / -Y
+VIRTUAL: Meta-Bindung
+MATRIX: 9×9
+OPERATOR: 9×9-Operator.me
+META: META²³
+PREFETCH: ACTIVE
 
